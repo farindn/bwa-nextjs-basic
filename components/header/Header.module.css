@@ -1,0 +1,14 @@
+.container {
+    padding: 5px;
+    box-shadow: 3px 3px 9px 3px rgb(0 0 0 / 30%);
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.item {
+    margin: 0px 16px;
+}
